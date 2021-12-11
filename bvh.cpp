@@ -1,10 +1,4 @@
 //
-//  bvh.cpp
-//  RayTracer
-//
-//  Created by Bo Miller on 2/1/19.
-//  Copyright © 2019 Bo Miller. All rights reserved.
-//
 #include "bvh.hpp"
 #include <limits>
 int constructTree(std::vector<SceneObject>& objects, Node& currentNode, std::vector<Node>& nodes)
