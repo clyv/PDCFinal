@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  RayTracer
-//
-//  Created by Bo Miller on 1/2/19.
-//  Copyright © 2019 Bo Miller. All rights reserved.
-//
-
 #include <stdio.h>
 #include <vector>
 
