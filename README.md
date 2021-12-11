@@ -1,8 +1,10 @@
 # PDCFinal
 
-# PDC J-component
+PDC J-component
 
-# Faculty: Dr. Harini S
-# 19BCE1079 Nirav Das
-# 19BCE1480 Clivin John Geju
-# 19BCE1815 Karan E Macaden
+Faculty: Dr. Harini S <br/><br/>
+
+Team Members:<br/>
+19BCE1079 Nirav Das<br/>
+19BCE1480 Clivin John Geju<br/>
+19BCE1815 Karan E Macaden
