@@ -1,10 +1,5 @@
-//
 //  Ray.cpp
 //  RayTracer
-//
-//  Created by Bo Miller on 1/2/19.
-//  Copyright © 2019 Bo Miller. All rights reserved.
-//
 #include "glm/glm/glm.hpp"
 #include "glm/glm/gtx/io.hpp"
 #include <iostream>
