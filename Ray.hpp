@@ -1,10 +1,6 @@
-//
 //  Ray.hpp
 //  RayTracer
-//
-//  Created by Bo Miller on 1/2/19.
-//  Copyright © 2019 Bo Miller. All rights reserved.
-//
+
 
 #include "SceneObjects.hpp"
 #include "bvh.hpp"
